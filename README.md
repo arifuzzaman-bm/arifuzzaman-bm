@@ -24,20 +24,20 @@
 
 <p align="center"  height="150px">
 
-<img width="470px" src="https://github-readme-stats.vercel.app/api?username=B-M-Arifuzzaman&count_private=true&show_icons=true&theme=midnight-purple" />
-<img width="470px" src="https://github-readme-streak-stats.herokuapp.com/?user=B-M-Arifuzzaman&theme=highcontrast" />
+<img width="470px" src="https://github-readme-stats.vercel.app/api?username=arifuzzaman-bm&count_private=true&show_icons=true&theme=midnight-purple" />
+<img width="470px" src="https://github-readme-streak-stats.herokuapp.com/?user=arifuzzaman-bm&theme=highcontrast" />
 
 </p>
 
 <p align="center">
-  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=B-M-Arifuzzaman&theme=xcode" />
+  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=arifuzzaman-bm&theme=xcode" />
   
 </p>
 
 
 ## Let's Connect:
 
-[<img align="left" alt="b-m-arifuzzaman" width="60px" src="https://img.icons8.com/doodle/48/4a90e2/linkedin-circled.png" />][linkedin]
+[<img align="left" alt="arifuzzaman-bm" width="60px" src="https://img.icons8.com/doodle/48/4a90e2/linkedin-circled.png" />][linkedin]
 
 
 <br />
@@ -62,7 +62,7 @@
 <br />
 
 
-[linkedin]: https://linkedin.com/in/b-m-arifuzzaman
+[linkedin]: https://linkedin.com/in/arifuzzaman-bm
 [fiverr]: https://www.fiverr.com/arif_zaman_
 
 
