@@ -9,7 +9,7 @@
   <a href="https://twitter.com/arifuzzaman_bm"><img src="https://img.shields.io/twitter/follow/arifuzzaman_bm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farifuzzaman_bm&screen_name=arifuzzaman_bm" width="300px"> </a>
 </p>
 
-<h2 align="center"> I am a Student, Front-End App Developer, Rookie Cyber Security Analyst</h2>
+<h2 align="center"> I am a Student, Front-End App Developer, Cyber Security Enthusiast</h2>
 <br> 
 <div align="center">
   <ul  align="center"> 
