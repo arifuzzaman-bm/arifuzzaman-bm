@@ -14,7 +14,7 @@
 <div align="center">
   <ul  align="center"> 
     <li align="center">🔭 I’ve finished my Bachelor Degree in Computer Science & Engineering :persevere: </li>
-    <li align="center">🌱 I’m currently learning Full Stack Web Development</li>
+    <li align="center">🌱 I’m currently learning Frontend Web Developing & PHP</li>
     <li align="center">🥅 2022 Goals : Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: </li>
    </ul>
  </div>
