@@ -34,7 +34,6 @@
   
 </p>
 
-
 ## Let's Connect:
 
 [<img align="left" alt="arifuzzaman-bm" width="60px" src="https://img.icons8.com/doodle/48/4a90e2/linkedin-circled.png" />][linkedin]
