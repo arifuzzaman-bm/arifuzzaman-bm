@@ -9,7 +9,11 @@
   <a href="https://twitter.com/arifuzzaman_bm"><img src="https://img.shields.io/twitter/follow/arifuzzaman_bm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farifuzzaman_bm&screen_name=arifuzzaman_bm" width="300px"> </a>
 </p>
 
-<h2 align="center"> I am a Front-End App Developer, Cyber Security Enthusiast</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robotot&color=%23F76F6F&size=22&center=true&width=500&lines=I+am+a+Front+End+App+Developer;I+am+a+Web+Designer;I+am+a+Cyber+Security+Enthusiast">
+</p>
+
+
 <br> 
 <div align="center">
   <ul  align="center"> 
@@ -59,6 +63,8 @@
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <br />
 <br />
+
+
 
 
 [linkedin]: https://linkedin.com/in/arifuzzaman-bm
