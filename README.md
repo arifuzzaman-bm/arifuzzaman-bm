@@ -18,7 +18,7 @@
   <ul  align="center"> 
     <li align="center">I'm working as an Intern as a Frontend Web Developer</li>
     <li align="center">🔭 I’ve finished my Bachelor Degree in Computer Science & Engineering </li>
-    <li align="center">🌱 I’m currently learning WordPress & PHP</li>
+    <li align="center">🌱 I’m currently learning WordPress & JavaScript</li>
     <li align="center">🥅 2022 Goals : Eat :feelsgood:, Sleep :trollface:, Learn :eyes: & Code :octocat: </li>
    </ul>
  </div>
